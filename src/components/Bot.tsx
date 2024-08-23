@@ -108,7 +108,7 @@ export type LeadsConfig = {
   successMessage?: string;
 };
 
-const defaultWelcomeMessage = 'Hi there! How can I help?';
+const defaultWelcomeMessage = 'Welkom bij Deductive! Hoe kan ik je van dienst zijn?';
 
 /*const sourceDocuments = [
     {
